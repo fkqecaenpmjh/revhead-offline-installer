@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+13-year-old Janis has "Magic Deficiency Disorder," a madness where one can't use magic in a very magic-oriented world. For her protection, she lives in a madhouse: a place where those with mental disorders can be safe from an unforgiving society.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,11 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **OS** | — | Mac OS X 10.7 |
+| **Processor** | Intel Pentium 4 | Intel Core i5 / Apple M1 |
+| **Memory** | 1 GB RAM | 1 GB RAM |
+| **Storage** | 260 MB available space | 260 MB available space |
+| **OS *** | Windows XP | Windows XP |
 
 ---
 
